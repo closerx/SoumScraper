@@ -432,8 +432,8 @@ def main():
     TYPESENSE_BASE_URL = "https://hy5cogiue4fnk2d0p.a1.typesense.net"
     
     # Telegram Configuration - استبدل هذه بالقيم الحقيقية
-    TELEGRAM_BOT_TOKEN = "1909407635:AAEcNvsunfle52fZh_kcvaeANwiBtvOGXDk"  # احصل عليه من @BotFather
-    TELEGRAM_CHAT_ID = "1414397128"  # احصل عليه من @userinfobot
+    TELEGRAM_BOT_TOKEN = "add token bot"  # احصل عليه من @BotFather
+    TELEGRAM_CHAT_ID = "add Id"  # احصل عليه من @userinfobot
     
     # Initialize components
     scraper = SoumScraper(api_key=TYPESENSE_API_KEY, base_url=TYPESENSE_BASE_URL)
