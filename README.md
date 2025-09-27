@@ -1,2 +1,2 @@
 # SoumScraper
-Scraping all iphone in Soum.sa 
+Scraping all iphone in https://Soum.sa 
